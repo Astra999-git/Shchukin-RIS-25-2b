@@ -1,6 +1,4 @@
-##Hello
-
-#What's up?
-
-* dfgdfgdf *
-* *** yjghjghj ***
+*hi*
+**hi**
+***hi***
+~~hi~~
